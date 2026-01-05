@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-jumping-clapping-manic-gif-4075226512074329051.gif" width="700px" alt="Software Developer">
+  <img src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-jumping-clapping-manic-gif-4075226512074329051.gif" width="400px" alt="Software Developer">
 </div>
 
 # 🚀 Olá, sou Rafael Torres - Software Developer 
