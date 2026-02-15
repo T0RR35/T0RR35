@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
- Técnico em Informática pelo CEFET-MG com interesse em desenvolvimento de software. Busco contribuir em projetos aplicando conhecimentos de lógica de programação, desenvolvimento web e banco de dados. Tenho experiência com trabalhos em equipe e espero evoluir continuamente como desenvolvedor. 
+ Graduando Engenharia de Software pela PUC Minas e Técnico em Informática pelo CEFET-MG com interesse em desenvolvimento de software. Busco contribuir em projetos aplicando conhecimentos de lógica de programação, desenvolvimento web e banco de dados. Tenho experiência com trabalhos em equipe e espero evoluir continuamente como desenvolvedor. 
 
 ## Habilidades Tecnológicas
 
@@ -14,13 +14,13 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=java,javascript,cpp,nodejs,c,)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,cpp,nodejs,c,)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
     [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,eclipse,)](https://skillicons.dev)
@@ -30,7 +30,7 @@
 
 💻 Aqui estão algumas das tecnologias que estou aprendendo:
 
-  [![My Skills](https://skillicons.dev/icons?i=python,cs,mongo)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,mongo)](https://skillicons.dev)
 
 ## Status
   <br>
