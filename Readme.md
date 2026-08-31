@@ -1,57 +1,77 @@
-<div align="center">
-  <img src="https://tenor.com/pt-BR/view/gear-5-gear-5-luffy-jumping-clapping-manic-gif-4075226512074329051.gif" width="400px" alt="Software Developer">
+-----
+
+<div>
+<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
 </div>
 
-# 🚀 Olá, sou Rafael Torres - Software Developer 
+-----
 
-## Sobre mim
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
 
- Graduando Engenharia de Software pela PUC Minas e Técnico em Informática pelo CEFET-MG com interesse em desenvolvimento de software. Busco contribuir em projetos aplicando conhecimentos de lógica de programação, desenvolvimento web e banco de dados. Tenho experiência com trabalhos em equipe e espero evoluir continuamente como desenvolvedor. 
+-----
 
-## Habilidades Tecnológicas
+<div align="justify"> <i><b>Hey</b> :wave:, I'm <code>Rafael Torres</code>, I'm 19 years old and I live in Belo Horizonte, Minas Gerais, Brazil. I've been programming since I was 15 years old. Currently, I'm <code>pursuing a degree</code> in Software Engineering at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. </div>
 
-💻 Aqui estão algumas das tecnologias que tenho contato:
+-----
 
--  Linguagens de Programação: 
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>About me:
 
-    [![My Skills](https://skillicons.dev/icons?i=python,java,javascript,cpp,nodejs,c,)](https://skillicons.dev)
-- Frameworks e Bibliotecas: 
+<div align="justify"> 
+Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.br/" target="_blank">Software Engineering</a> at <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>. I also hold a Technical degree (2023–2025) in <a href="https://www.cefetmg.br/" target="_blank">Information Technology</a> from the <a href="https://www.cefetmg.br/" target="_blank">Federal Center for Technological Education of Minas Gerais (CEFET-MG)</a>. I have 1 year of professional experience in software development and previously worked as a <code>Software Development Intern</code> at the <a href="https://www.cmbh.mg.gov.br/" target="_blank">Belo Horizonte City Council</a>, where I worked as a <code>Full-Stack Developer</code> using <a href="https://www.djangoproject.com/" target="_blank">Django</a> and <a href="https://www.docker.com/" target="_blank">Docker</a> for web application development.
+</div>
 
-    [![My Skills](https://skillicons.dev/icons?i=react,django)](https://skillicons.dev)
-- Dados: 
+-----
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-- Ferramentas e Tecnologias: 
+<div>
+<details>
+<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Torres' Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify"/>
+</details>
+</div>
 
-    [![My Skills](https://skillicons.dev/icons?i=github,visualstudio,eclipse,docker)](https://skillicons.dev)
-- Desenvolvimento Web:
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=p306ddxlb22f7rha6na6p0t9q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=p306ddxlb22f7rha6na6p0t9q&theme=spotify&unique=1&username=off"/>
+</td>
+<td>
+<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
+<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
 
-    [![My Skills](https://skillicons.dev/icons?i=php,html,css)](https://skillicons.dev)
+-----
 
-💻 Aqui estão algumas das tecnologias que estou aprendendo:
-
-  [![My Skills](https://skillicons.dev/icons?i=cs,mongo)](https://skillicons.dev)
-
-## Status
-  <br>
-  <p align="center">
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=T0RR35&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=T0RR35&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </p>
-  
-## Projetos Criativos
-
-🎨 Aqui estão alguns dos meus projetos:
-
-1. [Remake King Kong em C++](https://github.com/T0RR35/King-Kong-Game): Desenvolvido utilizando a biblioteca SFML.
-2. [Remake Desert Strike em Java](https://github.com/T0RR35/Desert-Strike-Remake): Desenvolvido utilizando a biblioteca libGDX juntamente com técnicas de RMI.
-3. [Aplicativo para estudantes ingressarem no CEFET-MG](https://github.com/T0RR35/AprovaCEFET): Desenvolvido no Trabalho de Conclusão de Curso. React Native e Node.js foram tecnologias utilizadas.
-
-## Vamos Criar Algo Incrível! 💫
-
-📫 Vamos colaborar? Estou sempre aberto a novos projetos e parcerias criativas. Entre em contato para conversarmos sobre novas ideias!
-
-## Vamos Conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-Rafael_Torres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaeltorresmodesto/)
-[![Email](https://img.shields.io/badge/Email-modestorresrafael@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:modestorresrafael@gmail.com)
