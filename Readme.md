@@ -46,6 +46,132 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 -----
 
+<h3 align="center">🚀 Languages, frameworks and tools</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="6"><strong>Languages & Frameworks</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/python.png?raw=true"/><br/>
+        <sub>Python</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://isocpp.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/cpp.svg?raw=true"/><br/>
+        <sub>C++</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/pt-BR/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/java.png?raw=true"/><br/>
+        <sub>Java</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://spring.io/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/spring.png?raw=true"/><br/>
+        <sub>Spring</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/js/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/js.png?raw=true"/><br/>
+        <sub>JavaScript</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/en/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/nodejs.png?raw=true"/><br/>
+        <sub>Node.js</sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td colspan="6">&nbsp;</td></tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/mysql.png?raw=true"/><br/>
+        <sub>MySQL</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/postgresql.png?raw=true"/><br/>
+        <sub>PostgreSQL</sub>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td colspan="6">&nbsp;</td></tr>
+
+  <tr>
+    <td align="center" colspan="6"><strong>Tools & DevOps</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/docker.png?raw=true"/><br/>
+        <sub>Docker</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://insomnia.rest/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/insomnia.png?raw=true"/><br/>
+        <sub>Insomnia</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://about.gitlab.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/gitlab.png?raw=true"/><br/>
+        <sub>GitLab</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.eclipse.org/downloads/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/eclipse.png?raw=true"/><br/>
+        <sub>Eclipse</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/vs.png?raw=true"/><br/>
+        <sub>VS Code</sub>
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://claude.ai/" target="_blank">
+        <img width="40" height="40" src="https://joaopauloaramuni.github.io/image/claude.svg?raw=true"/><br/>
+        <sub>Claude</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+-----
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?v=2&cb=1"/>&nbsp;Companies I've worked:
+
+<div align="center">
+
+<!--<a href="https://alamoti.net/" target="_blank"><img width="75" height="75" src="https://joaopauloaramuni.github.io/image/alamoti.jpeg?raw=true"/></a>-->
+
+</div>
+
+</div>
+
+-----
+
 <div>
 <details>
 <summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?v=1&cb=1"/> Torres' Spotify Data</summary>
@@ -70,7 +196,5 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
  <td align="center" colspan="3"></td>
 </tr> 
 </table>
+<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
 </div>
-
------
-
