@@ -12,15 +12,18 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+<!--<td><a href="https://aramuni.dev/"><img src="https://joaopauloaramuni.github.io/image/portfolio3.png?raw=true" width="50px" height="50px"/></a>
+</td>-->
+<td><a href="https://github.com/T0RR35" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://joaopauloaramuni.github.io/image/github5.png?raw=true" width="50px" height="50px"/></a>
+<td>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=modestorresrafael@gmail.com" target="_blank">
+    <img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px" alt="Gmail"/>
+  </a>
 </td>
-<td><a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img src="https://joaopauloaramuni.github.io/image/gmail3.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://wa.me/5531980402103" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
-<td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
-<td><a href="https://discordapp.com/users/959151773728251914" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531989790048" target="_blank"><img src="https://joaopauloaramuni.github.io/image/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/rafaeltorresmodesto/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://discordapp.com/users/torres9005" target="_blank"><img src="https://joaopauloaramuni.github.io/image/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </tr>
 <tr>
@@ -61,10 +64,6 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 </td>
 <td>
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=p306ddxlb22f7rha6na6p0t9q&theme=spotify&unique=1&username=off"/>
-</td>
-<td>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </td>
 </tr>
 <tr>
