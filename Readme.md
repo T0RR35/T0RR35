@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://joaopauloaramuni.github.io/image/header_aramuni.png"/>
+<img align="center" alt="Header" src="https://github.com/T0RR35/T0RR35/blob/main/img/terminal-animation.svg"/>
 </div>
 
 -----
