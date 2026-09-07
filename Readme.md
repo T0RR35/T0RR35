@@ -1,7 +1,7 @@
 -----
 
-<div>
-<img align="center" alt="Header" src="https://github.com/T0RR35/T0RR35/blob/main/img/terminal-animation.svg"/>
+<div align="center">
+  <img alt="Header" width="80%" src="https://github.com/T0RR35/T0RR35/blob/main/img/terminal-animation.svg"/>
 </div>
 
 -----
@@ -215,4 +215,5 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 </tr> 
 </table>
 <img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=B0B0B0&section=footer"/>
+ <p><i>1Co 10:31 - "Therefore, whether you eat or drink, or whatever you do, do everything for the glory of God"</i></p>
 </div>
