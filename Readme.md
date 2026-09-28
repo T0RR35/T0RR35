@@ -162,11 +162,22 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/handshake2.svg?v=2&cb=1"/>&nbsp;Companies I've worked:
 
-<div align="center">
-
-<a href="https://www.cmbh.mg.gov.br/A-C%C3%A2mara/entenda-a-camara" target="_blank"><img width="120" height="120" src="https://github.com/T0RR35/T0RR35/blob/main/img/cmbh.png"/></a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.cmbh.mg.gov.br/A-C%C3%A2mara/entenda-a-camara" target="_blank">
+        <img width="120" height="120" src="https://github.com/T0RR35/T0RR35/blob/main/img/cmbh.png?raw=true"/><br/>
+        <sub>Câmara Municipal de BH</sub>
+      </a>
+    </td>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.prodemge.gov.br/" target="_blank">
+        <img width="120" height="120" src="https://github.com/T0RR35/T0RR35/blob/main/img/prodemge.png?raw=true"/><br/>
+        <sub>Prodemge</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
