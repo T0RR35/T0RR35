@@ -4,8 +4,6 @@
   <img alt="Header" width="80%" src="https://github.com/T0RR35/T0RR35/blob/main/img/terminal-animation.svg"/>
 </div>
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=0567bae2-693c-44f5-a00a-95bfad691d49&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&hide_title=true&langs_count=8)](https://nice-readme.vercel.app/wakatime)
-
 -----
 
 <div align="center">
