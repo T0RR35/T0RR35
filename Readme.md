@@ -183,6 +183,70 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 -----
 
+
+<div>
+
+<img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/graphic.svg?raw=true"/>&nbsp;GitHub Stats:
+
+<div align="center">
+
+<table>
+<tr>
+ <td align="center" colspan="2">:watch: <a href="https://wakatime.com/@0567bae2-693c-44f5-a00a-95bfad691d49">WakaTime Stats since 08/31/2026</a></td>
+</tr> 
+<tr>
+<td><img src="https://helio-github-stats.vercel.app/api/wakatime?username=0567bae2-693c-44f5-a00a-95bfad691d49&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&langs_count=22&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=0567bae2-693c-44f5-a00a-95bfad691d49&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&disable_animations=false&langs_count=12&theme=dark" alt="WakaTime Stats" width="466" loading="lazy"/>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=T0RR35&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=350&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=9" alt="Linguagens mais usadas" width="350" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=T0RR35&layout=pie&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+<td>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=T0RR35&layout=donut-vertical&stats_format=bytes&theme=dark&hide_border=false&border_radius=4.5&card_width=300&locale=pt-br&custom_title=Linguagens+mais+usadas&langs_count=12" alt="Linguagens mais usadas" width="300" loading="lazy" />
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+
+<img src="https://helio-github-stats.vercel.app/api?username=T0RR35&custom_title=GitHub+Stats&theme=dark&title_color=fb8c00&text_color=ffffff&icon_color=fb8c00&ring_color=fb8c00&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" />
+</td>
+<td>
+<img alt="GitHub Streak" width="485px" src="https://streak-stats.demolab.com?user=T0RR35&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
+</div>
+
+<div>
+  
+-----
+
 <h3 align="center">🕹️ My silliest (and favorite) side project</h3>
 
 <table align="center">
