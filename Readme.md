@@ -244,24 +244,6 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 </div>
 
 <div>
-  
------
-
-<h3 align="center">🕹️ My silliest (and favorite) side project</h3>
-
-<table align="center">
-  <tr>
-    <td align="center" width="280">
-      <a href="https://github.com/T0RR35/Desert-Strike-Remake" target="_blank">
-        <img width="260" src="https://github.com/T0RR35/T0RR35/blob/main/img/desert_strike_frames.svg"/>
-      </a>
-      <br/>
-      <sub><b>Desert Strike Remake</b></sub>
-      <br/>
-      <sub>Remade the classic Desert Strike from scratch — helicopter combat, explosions, and 90s nostalgia in pixel art</sub>
-    </td>
-  </tr>
-</table>
 
 -----
 
