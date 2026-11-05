@@ -183,6 +183,17 @@ Currently, I'm <code>pursuing a degree</code> in <a href="https://www.pucminas.b
 
 -----
 
+<div align="center">
+
+<h3>👋 Want to know more about me?</h3>
+
+<a href="https://my-portfolio-alpha-one-l05ufsvlnv.vercel.app/" target="_blank">
+  <img alt="Check my personal portfolio" src="https://img.shields.io/badge/%F0%9F%9A%80_Check_my_personal_portfolio-fb8c00?style=for-the-badge&logoColor=white"/>
+</a>
+
+</div>
+
+-----
 
 <div>
 
